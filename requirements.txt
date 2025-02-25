@@ -1,1 +1,5 @@
-stramlit
+streamlit
+pygments==2.19.1
+mdurl==0.1.2
+markdown-it-py==3.0.0
+rich==13.9.4
